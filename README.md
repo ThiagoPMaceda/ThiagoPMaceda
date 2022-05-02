@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/thiagopm__" target="blank"><img src="https://img.shields.io/twitter/follow/thiagopm__?logo=twitter&style=for-the-badge" alt="thiagopm__" /></a> </p>
 
-- 💬 Ask me about **Elixir, Phoenix, Postgres**
+- 💬 Ask me about **Elixir, Phoenix, Postgres, Neovim**
 
 - 📫 How to reach me **thiagopmaceda@gmail.com**
+
+- 👨‍💻 Editor [https://github.com/neovim/neovim](Neovim), my Dotfiles [https://github.com/ThiagoPMaceda/nvim-files](Dotfiles)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
